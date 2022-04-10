@@ -12,4 +12,5 @@ System.out.println(b.GetGivenName()+b.GetSurName());
 System.out.println(c.GetGivenName()+c.GetSurName());
 System.out.println(d.GetGivenName()+d.GetSurName());
 System.out.println(e.GetGivenName()+e.GetSurName());
-}}
+}
+}
