@@ -10,5 +10,4 @@ public String GetGivenName(){
 }
 public String GetSurName(){
 	return SurName;
-}
-}
+}}
